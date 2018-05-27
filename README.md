@@ -1,4 +1,4 @@
-![Travis](https://img.shields.io/travis/DanMMX/distance-between-points.svg)
+[![Travis](https://img.shields.io/travis/DanMMX/distance-between-points.svg)](https://travis-ci.org/DanMMX/distance-between-points)
 
 # Calculate distance between two points
 

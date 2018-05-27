@@ -1,6 +1,6 @@
 {
-  "name": "distance-between-points",
-  "version": "1.0.0",
+  "name": "@danmmx/distance-between-points",
+  "version": "1.0.1",
   "description": "Calculate distance between two points",
   "main": "dist/index.js",
   "config": {
