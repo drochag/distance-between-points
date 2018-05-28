@@ -4,13 +4,13 @@
 
 ## Installation
 
-`npm install distance-between-points`
+`npm install @danmmx/distance-between-points`
 
 ## Usage
 
 ```
 
-import calcDistance from 'distance-between-points'
+import calcDistance from '@danmmx/distance-between-points'
 
 const pointA = { x: 1, y: 1 }
 const pointB = { x: 2, y: 2 }
